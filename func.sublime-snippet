@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+/**
+* @brief : ${1: brief-description}
+* @author: $TM_FULLNAME
+* @param[in] : ${2: param-name} - ${3: param-description}
+* @param[out]: ${4: param-name} - ${5: param-description}
+* @exception : ${6: exception} - ${7: exception-desc}
+* @return    : ${8: return-value} - ${9: return-desc}
+* @note      :
+*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>#func</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+/**
+* @class : <${1: class_name} >
+*		   <${2: header-file} > 
+*		   <${3: header-name} >
+* @brief : ${4: class-brief}
+* @author: $TM_FULLNAME
+* @note  : ${5: class-notes}
+*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>#cls</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
